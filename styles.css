@@ -1,0 +1,29 @@
+.video{
+    width: 550px;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.5);
+}
+
+body {
+    display: flex;
+    height: 100vh;
+        align-items: center;
+    justify-content: center;
+}
+.dad{
+    text-align:center
+}
+.dad h1{
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: 25px;
+    color: #b45d19;
+}
+.dad p{
+    font-size: x-large;
+    font-weight: 300;
+    letter-spacing: 5px;
+    font-family: cursive;
+}
