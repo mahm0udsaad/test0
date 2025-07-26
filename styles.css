@@ -14,3 +14,16 @@ body {
 .dad{
     text-align:center
 }
+.dad h1{
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: 25px;
+    color: #b45d19;
+}
+.dad p{
+    font-size: x-large;
+    font-weight: 300;
+    letter-spacing: 5px;
+    font-family: cursive;
+}
